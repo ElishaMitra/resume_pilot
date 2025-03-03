@@ -47,7 +47,7 @@ resume_pilot/
 │   ├── logo.png  
 │   ├── Image1.png  
 │── README.md  
-│── .gitignore  
+
 
 Run the Application
 ----------------------------
