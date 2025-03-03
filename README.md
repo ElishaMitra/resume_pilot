@@ -1,4 +1,3 @@
-# resume_pilot
 •Resume Pilot – AI Resume Screening & Candidate Ranking System
 ----------------------------------------------------------------
 This project is an AI-powered resume screening and ranking system built using Streamlit, scikit-learn, and PyPDF2. It allows users to upload resumes in PDF format, compare them against a given job description, and rank them based on TF-IDF & Cosine Similarity. Additionally, it extracts skills from resumes and highlights missing skills required for the job.
