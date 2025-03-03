@@ -81,3 +81,4 @@ End Users
 ---------------------
 Resume Pilot streamlines resume screening by automating resume ranking and skill matching. Using TF-IDF and Cosine Similarity, it ensures fast, objective, and accurate candidate shortlisting. With PDF text extraction, real-time ranking, and easy deployment via Streamlit, this project provides a scalable, efficient, and user-friendly solution for recruiters, hiring managers, and job portals. 🚀
 
+Deployment source: https://resumepilot-oyvh2t9kcnckabjhkxiaix.streamlit.app/
